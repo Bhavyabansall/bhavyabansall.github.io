@@ -6202,12 +6202,7 @@ button.close {
     border: 1px solid #dee2e6 !important;
   }
 }
-/*# sourceMappingURL=bootstrap.min.css.map */
-/**
- * Owl Carousel v2.2.1
- * Copyright 2013-2017 David Deutsch
- * Licensed under  ()
- */
+
 @keyframes fadeOut {
   0% {
     opacity: 1;
