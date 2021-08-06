@@ -1042,7 +1042,7 @@ li {
   z-index: 9;
 }
 .hero-area2 {
-  background-image: url(https://preview.colorlib.com/theme/calvin/assets/img/hero/xhero2.png.pagespeed.ic.adq5wG3sti.png);
+  background-image: url(https://preview.colorlib.com/theme/bhavya/assets/img/hero/xhero2.png.pagespeed.ic.adq5wG3sti.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 440px;
@@ -12080,7 +12080,7 @@ img.mfp-img {
   content: "\f007";
 }
 @font-face {
-  font-family: Font Awesome\5 Brands;
+  font-family: Font awesome\5 Brands;
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/fa-brands-400.eot);
@@ -12091,10 +12091,10 @@ img.mfp-img {
     url(../fonts/fa-brands-400.svg#fontawesome) format("svg");
 }
 .fab {
-  font-family: Font Awesome\5 Brands;
+  font-family: Font awesome\5 Brands;
 }
 @font-face {
-  font-family: Font Awesome\5 Free;
+  font-family: Font awesome\5 Free;
   font-style: normal;
   font-weight: 400;
   src: url(../fonts/fa-regular-400.eot);
@@ -12105,7 +12105,7 @@ img.mfp-img {
     url(../fonts/fa-regular-400.svg#fontawesome) format("svg");
 }
 @font-face {
-  font-family: Font Awesome\5 Free;
+  font-family: Font awesome\5 Free;
   font-style: normal;
   font-weight: 900;
   src: url(../fonts/fa-solid-900.eot);
@@ -12117,7 +12117,7 @@ img.mfp-img {
 }
 .fa,
 .fas {
-  font-family: Font Awesome\5 Free;
+  font-family: Font awesome\5 Free;
 }
 .fa,
 .fas {
